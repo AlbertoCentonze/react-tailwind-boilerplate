@@ -10,7 +10,7 @@ I'm glad you asked! There's plenty of technical reasons but the main one is that
 
 [Here](https://github.com/Nikhil-Kumaran/ejected-react-app/blob/master/package.json) you can find a list of all the dependencies that you're installing under the hood while using CRA.
 
-Furthermore, if you have a decent connection it takes less than 10 seconds to install all my boilerplate dependencies and you'll be ready to go!
+Furthermore, if you have a decent connection it takes less than 10 seconds to install my boilerplate dependencies and you'll be ready to go!
 
 ## Is this actively maintained? 
 
